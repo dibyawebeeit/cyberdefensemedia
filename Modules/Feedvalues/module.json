@@ -1,0 +1,11 @@
+{
+    "name": "Feedvalues",
+    "alias": "feedvalues",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Feedvalues\\App\\Providers\\FeedvaluesServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,31 @@
+{
+    "name": "nwidart/defaultimage",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Defaultimage\\": "",
+            "Modules\\Defaultimage\\App\\": "app/",
+            "Modules\\Defaultimage\\Database\\Factories\\": "database/factories/",
+            "Modules\\Defaultimage\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\Defaultimage\\Tests\\": "tests/"
+        }
+    }
+}

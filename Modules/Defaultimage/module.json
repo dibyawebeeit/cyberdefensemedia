@@ -1,0 +1,11 @@
+{
+    "name": "Defaultimage",
+    "alias": "defaultimage",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Defaultimage\\App\\Providers\\DefaultimageServiceProvider"
+    ],
+    "files": []
+}

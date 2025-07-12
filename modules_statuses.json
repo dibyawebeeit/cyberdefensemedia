@@ -1,0 +1,21 @@
+{
+    "Authentication": true,
+    "Dashboard": true,
+    "Profile": true,
+    "Setting": true,
+    "Role": true,
+    "Permission": true,
+    "Faq": true,
+    "Page": true,
+    "Frontend": true,
+    "Portfolio": true,
+    "Service": true,
+    "Contact": true,
+    "Team": true,
+    "Logo": true,
+    "Cms": true,
+    "Newsletter": true,
+    "Feed": true,
+    "Feedvalues": true,
+    "Defaultimage": true
+}
